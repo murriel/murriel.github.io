@@ -60,6 +60,13 @@ ul, li {
   list-style-type: none;
 }
 
+/* added for year headings in lists - GCA */
+.list-heading h4 {
+    margin: 25px 0 25px;
+    color: #EAB0D5; /* light pink */
+}
+
+
 @media(min-width:767px) {
     p {
         margin: 0 0 35px;
