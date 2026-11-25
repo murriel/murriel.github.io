@@ -95,4 +95,3 @@ With all the dependencies installed, you can now serve the website locally.
     ```bash
     xcode-select --install
     ```
--   **Google Maps API Key**: The file `_includes/js.html` contains a Google Maps API key. Please be aware that this key is exposed. For a production site, it's highly recommended to restrict the API key to your domain to prevent unauthorized use.
